@@ -1,0 +1,2 @@
+1. Maven 의존주입 후 Maven -> Update Project(Alt+F5) 수행
+2. JRE 버전 1.5로 돌아가므로 현재버전으로 변경해주어야 함
